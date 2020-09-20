@@ -1,0 +1,37 @@
+.services__card {
+	width: 55%;
+	display: flex;
+	justify-content: space-between;
+	flex-wrap: wrap;
+}
+
+.card {
+	width: 50%;
+}
+
+.card.-first {
+	padding: 0 35px 35px 0;
+}
+
+.card.-second {
+	padding: 0 0 35px 35px;
+}
+
+.card.-third {
+	padding: 35px 35px 0 0;
+}
+
+.card.-fourth {
+	padding: 35px 0px 0 35px;
+}
+
+.title.-card {
+	margin-top: 25px;
+	margin-bottom: 10px;
+	font-size: 20px;
+}
+
+.text.-card {
+	line-height: 150%;
+	font-size: 15px;
+}

@@ -1,0 +1,10 @@
+.nav {
+	display: flex;
+	justify-content: space-between;
+	width: 80%;
+}
+
+.nav__link {
+	color: var(--c-dark_blue);
+	font-size: 16px;
+}

@@ -1,0 +1,51 @@
+.title {
+	color: var(--c-dark_blue);
+}
+
+.title.-hero {
+	font-size: 40px;
+}
+
+.title.-case {
+	margin-bottom: 60px;
+	font-size: 35px;
+}
+
+.title.-services {
+	font-size: 35px;
+	margin-top: 25px;
+	margin-bottom: 100px;
+}
+
+.title.-blue {
+	font-size: 35px;
+	color: var(--c-white);
+}
+
+.text {
+	color: var(--c-dark_blue);
+}
+
+.text.-hero {
+	width: 50%;
+	text-align: center;
+}
+
+.text.-case {
+	width: 75%;
+	margin-bottom: 30px;
+}
+
+.text.-services {
+	margin-bottom: 25px;
+	line-height: 150%;
+}
+
+.text.-blue {
+	color: var(--c-white);
+	margin-top: 10px;
+}
+
+.text.-footer {
+	font-size: 12px;
+}

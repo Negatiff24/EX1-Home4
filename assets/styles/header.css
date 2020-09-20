@@ -1,0 +1,27 @@
+.header {
+	padding: 25px 0;
+}
+
+.container.-header {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.header__left {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	width: 60%;
+}
+
+.header__right {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	width: 23%;
+}
+
+.header__number {
+	color: var(--c-dark_blue);
+}

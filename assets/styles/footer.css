@@ -1,0 +1,21 @@
+.footer {
+	margin-bottom: 100px;
+}
+
+.container.-footer {
+	display: flex;
+	justify-content: space-between;
+}
+
+.footer__right {
+	width: 20%;
+}
+
+.footer__links {
+	display: flex;
+	justify-content: space-between;
+}
+
+.footer__link {
+	font-size: 12px;
+}

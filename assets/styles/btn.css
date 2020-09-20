@@ -1,0 +1,40 @@
+.btn {
+	display: inline-block;
+	border: none;
+	border-radius: 50px;
+	background: var(--c-blue);
+	color: var(--c-white);
+	padding: 10px;
+}
+
+.btn.-logo {
+	font-family: halyard-display, sans-serif;
+	font-style: normal;
+	font-weight: 600;
+	font-size: 30px;
+	color: var(--c-dark_blue);
+	background: transparent;
+	position: relative;
+	padding-top: 0;
+	padding-left: 0;
+}
+
+.btn.-case {
+	color: var(--c-blue);
+	background: var(--c-white);
+	border: 1px solid var(--c-blue);
+	padding: 10px 20px;
+}
+
+.btn.-services {
+	color: var(--c-blue);
+	background: var(--c-grey);
+	border-radius: 5px;
+	font-size: 14px;
+	padding: 10px 15px;
+}
+
+.btn.-blue {
+	background-color: var(--c-white);
+	color: var(--c-dark_blue);
+}
